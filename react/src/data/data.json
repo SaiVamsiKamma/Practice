@@ -1,0 +1,28 @@
+{
+    "Students" : [
+    {
+        "id":1,
+        "name" : "Vamsi",
+        "Department" : "Mechanical Engineering",
+        "Auditorium seat" : 100
+    },
+
+     {
+        "id":2,
+        "name" : "Vamsi k",
+        "Department" : "Mechanical Engineering",
+        "Auditorium seat" : 101
+     },
+
+     {
+        "id":3,
+        "name" : "Chaitanya",
+        "Department" : "Mechanical Engineering",
+        "Auditorium seat" : 102
+     }
+
+
+    ]
+    
+    
+}
